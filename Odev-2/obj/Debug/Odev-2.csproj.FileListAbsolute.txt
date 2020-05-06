@@ -1,0 +1,12 @@
+C:\Users\ALTAN EMRE\source\repos\Odev-2\Odev-2\bin\Debug\Odev-2.exe.config
+C:\Users\ALTAN EMRE\source\repos\Odev-2\Odev-2\bin\Debug\Odev-2.exe
+C:\Users\ALTAN EMRE\source\repos\Odev-2\Odev-2\bin\Debug\Odev-2.pdb
+C:\Users\ALTAN EMRE\source\repos\Odev-2\Odev-2\bin\Debug\CodeHollow.FeedReader.dll
+C:\Users\ALTAN EMRE\source\repos\Odev-2\Odev-2\obj\Debug\Odev-2.csprojAssemblyReference.cache
+C:\Users\ALTAN EMRE\source\repos\Odev-2\Odev-2\obj\Debug\Odev_2.Form1.resources
+C:\Users\ALTAN EMRE\source\repos\Odev-2\Odev-2\obj\Debug\Odev_2.Properties.Resources.resources
+C:\Users\ALTAN EMRE\source\repos\Odev-2\Odev-2\obj\Debug\Odev-2.csproj.GenerateResource.cache
+C:\Users\ALTAN EMRE\source\repos\Odev-2\Odev-2\obj\Debug\Odev-2.csproj.CoreCompileInputs.cache
+C:\Users\ALTAN EMRE\source\repos\Odev-2\Odev-2\obj\Debug\Odev-2.csproj.CopyComplete
+C:\Users\ALTAN EMRE\source\repos\Odev-2\Odev-2\obj\Debug\Odev-2.exe
+C:\Users\ALTAN EMRE\source\repos\Odev-2\Odev-2\obj\Debug\Odev-2.pdb
